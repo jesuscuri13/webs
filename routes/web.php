@@ -17,4 +17,4 @@
     return $router->app->version();
 });*/
 
-$router->get('/excel', 'ExampleController@show');
+$router->get('/', 'ExampleController@show');

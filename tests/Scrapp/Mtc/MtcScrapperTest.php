@@ -3,7 +3,7 @@
 use App\Scrapp\Mtc\MtcScrapper;
 use App\Scrapper\Scrapper;
 
-class MtcScrapperTest extends TestCase {
+class MtcScrapperTesto extends TestCase {
 
     /**
      * 
